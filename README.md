@@ -1,2 +1,1 @@
-# sanzybotz
-# deploy/heroku.xtco.com/
+deploy/heroku.xtco.com/
